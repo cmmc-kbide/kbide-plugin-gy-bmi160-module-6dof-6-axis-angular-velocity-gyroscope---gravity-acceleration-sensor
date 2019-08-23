@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-bmi160-module-6dof-6-axis-angular-velocity-gyroscope---gravity-acceleration-sensor",
+  "title": "gy-bmi160-module-6dof-6-axis-angular-velocity-gyroscope---gravity-acceleration-sensor",
+  "keywords": "gy-bmi160-module-6dof-6-axis-angular-velocity-gyroscope---gravity-acceleration-sensor, esp32, esp8266, arduino",
+  "description": "gy-bmi160-module-6dof-6-axis-angular-velocity-gyroscope---gravity-acceleration-sensor plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-bmi160-module-6dof-6-axis-angular-velocity-gyroscope---gravity-acceleration-sensor/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-bmi160-module-6dof-6-axis-angular-velocity-gyroscope---gravity-acceleration-sensor/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
